@@ -1,3 +1,2 @@
-# to-do-list
-Pet-project  
+# Pet-project   
 Simple to-do list
