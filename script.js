@@ -13,10 +13,10 @@ document.querySelector('#push').addEventListener('click', () => {
             </div>
         `;
 
-        const current_tasks = document.querySelectorAll('.delete');
-        for (let i = 0; i < current_tasks.length; i++) {
-            current_tasks[i].addEventListener('click', () => {
-                current_tasks[i].parentNode.remove();
+        const currentTasks = document.querySelectorAll('.delete');
+        for (let i = 0; i < currentTasks.length; i++) {
+            currentTasks[i].addEventListener('click', () => {
+                currentTasks[i].parentNode.remove();
             });
         }
 
