@@ -1,4 +1,4 @@
 # Simple to-do list   
-Pet project  
+### Pet project  
 
 ![preview](./preview.PNG)
